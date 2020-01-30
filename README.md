@@ -2,4 +2,4 @@
 
 Nokia-like keyboard emulator. Fully develop on AppInventor.
 
-![screenshot]()
+![screenshot](https://github.com/Jkutkut/Oldie-but-goodie-keyboard/blob/master/Oldie_but_goodie_keyboard.jpg)
